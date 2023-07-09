@@ -1,6 +1,4 @@
-# Hardhat Smartcontract Lottery (Raffle) FCC
-
-*This repo has been updated to work with Sepolia over Goerli.*
+# Hardhat Smartcontract Lottery (Raffle)
 
 
 # Getting Started
